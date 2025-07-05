@@ -13,6 +13,26 @@ export default {
     gtag('config', 'G-NX48EZF634');`]
   ],
 
+  transformHead({ assets }) {
+    // Find the Mona Sans font file in the build output
+    const myFontFile = assets.find(file => /Poppins\.\w+\.ttf/);
+
+    if (myFontFile) {
+      return [
+        [
+          'link',
+          {
+            rel: 'preload',
+            href: myFontFile,
+            as: 'font',
+            type: 'font/woff2',
+            crossorigin: ''
+          }
+        ]
+      ];
+    }
+  },
+
   themeConfig: {
     nav: nav(),
 

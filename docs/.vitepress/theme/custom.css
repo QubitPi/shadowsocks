@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url('/fonts/Poppins-Regular.ttf') format('ttf')
+}
+
+:root {
+    --vp-font-family-base: "Poppins-Regular", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+/* (Optional) apply the font to the whole document */
+html {
+    font-family: var(--vp-font-family-base);
+}
