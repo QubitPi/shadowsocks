@@ -1,3 +1,5 @@
+<!--@include: ./banner.md-->
+
 # Contributors
 
 ## Core Contributors

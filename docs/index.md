@@ -28,3 +28,5 @@ features:
   - title: Cross Platform
     details: Available on most platforms, including Windows, Linux, Mac, Android, iOS, and OpenWRT.
 ---
+
+<!--@include: ./doc/banner.md-->

@@ -1,3 +1,5 @@
+<!--@include: ./banner.md-->
+
 # Deploying
 
 ## Setup your own server

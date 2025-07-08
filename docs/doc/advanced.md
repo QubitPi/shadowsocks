@@ -1,3 +1,5 @@
+<!--@include: ./banner.md-->
+
 # Advanced configurations
 
 ## Optimize the shadowsocks server on Linux

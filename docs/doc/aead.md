@@ -1,3 +1,5 @@
+<!--@include: ./banner.md-->
+
 # AEAD ciphers
 
 [AEAD] stands for Authenticated Encryption with Associated Data. AEAD ciphers simultaneously provide confidentiality, integrity, and authenticity. They have excellent performance and power efficiency on modern hardware. Users should use AEAD ciphers whenever possible.
