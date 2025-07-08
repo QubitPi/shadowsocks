@@ -1,3 +1,5 @@
+<!--@include: ./banner.md-->
+
 # Config Format
 
 ## Config File

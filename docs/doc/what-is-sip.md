@@ -1,3 +1,5 @@
+<!--@include: ./banner.md-->
+
 # What is SIP
 
 SIP stands for Shadowsocks Improvement Proposal. SIPs are standards specifying potential new features or processes for Shadowsocks.

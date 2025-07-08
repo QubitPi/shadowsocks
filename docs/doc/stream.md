@@ -1,3 +1,5 @@
+<!--@include: ./banner.md-->
+
 # Stream ciphers
 
 ***Stream ciphers are completely broken and will be removed soon. New users must use [AEAD ciphers](/doc/aead).***
