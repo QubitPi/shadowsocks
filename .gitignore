@@ -6,3 +6,10 @@ en/
 docs/.vitepress/dist
 docs/.vitepress/cache
 .idea
+.yarn/*
+!.yarn/releases
+!.yarn/patches
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
