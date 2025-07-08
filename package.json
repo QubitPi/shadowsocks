@@ -1,7 +1,6 @@
 {
   "name": "shadowsocks.github.io",
   "version": "0.0.1",
-  "private": false,
   "description": "Official website of shadowsocks project.",
   "main": "index.js",
   "scripts": {
