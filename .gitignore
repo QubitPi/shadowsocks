@@ -6,6 +6,7 @@ en/
 docs/.vitepress/dist
 docs/.vitepress/cache
 .idea
+.DS_Store
 .yarn/*
 !.yarn/releases
 !.yarn/patches

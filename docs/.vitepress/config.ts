@@ -51,7 +51,7 @@ export default {
 
     footer: {
       message: 'This website is released under the MIT License.',
-      copyright: 'Copyright © 2022 Shadowsocks contributors'
+      copyright: `Copyright © ${new Date().getFullYear()} Shadowsocks contributors`
     },
 
     algolia: {
